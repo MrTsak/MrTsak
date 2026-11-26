@@ -1,3 +1,5 @@
+![Ioannis Tsakalidis — Computer & Network Technician](github-readme-banner-draft.png)
+
 ## Hi, I'm Ioannis 👋
 
 Computer and network technician in Larissa, Greece, studying for a BSc (Hons) in Computing (Artificial Intelligence) at the University of Essex, delivered at Aegean College.
