@@ -6,9 +6,9 @@ I maintain and repair Xerox and Lexmark printers and multifunction devices at Co
 
 ### Projects
 
-**[Diabetes Risk Explorer](https://tsakioan.com/projects/diabetes/)** · [code](https://github.com/MrTsak/AI-Data-Analytics)
+**[Diabetes Data Analysis](https://tsakioan.com/projects/diabetes/)** · [code](https://github.com/MrTsak/AI-Data-Analytics)
 
-Machine learning on 100,000 health records, published as an interactive bilingual (English/Greek) web page. It compares Random Forest and Logistic Regression models (ROC-AUC 0.963 vs 0.960), groups patients by risk with K-means, and includes an in-browser risk estimator backed by automated tests and CI.
+An educational machine-learning project on a dataset of 100,000 records, published as an interactive bilingual (English/Greek) web page. It compares Random Forest and Logistic Regression models (ROC-AUC 0.963 vs 0.960), groups the records with K-means, and lets you explore both models' estimates in the browser, backed by automated tests and CI.
 
 **[tsakioan.com](https://tsakioan.com/)** · [code](https://github.com/MrTsak/tsakioan-portfolio)
 
